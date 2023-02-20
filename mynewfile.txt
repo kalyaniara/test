@@ -1,3 +1,4 @@
 Welcome to new git sessions.
 commands
 With eclipse
+eclipse with maven
